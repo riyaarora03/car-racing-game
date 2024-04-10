@@ -10,8 +10,8 @@ Intuitive Controls: Use the arrow keys to control your car's movement (up, down,
 
 ## Under the Hood (Technologies Used):
 
-HTML: Provides the foundation for the game's structure, defining elements like the score display, high score, start screen, and game area.
-CSS: Injects style and visual elements, creating the background road, opponent cars, your car, and other visual components.
+HTML: Provides the foundation for the game's structure, defining elements like the score display, high score, start screen, and game area.  
+CSS: Injects style and visual elements, creating the background road, opponent cars, your car, and other visual components.  
 JavaScript: Makes the game interactive! It handles car movement based on your key presses, opponent car generation and movement, collision detection, scorekeeping, and overall game logic.
 
 
