@@ -3,10 +3,10 @@ Get behind the wheel and test your reflexes in this exciting car racing game! Na
 
 ## Key Features:
 
-Dodge Opponents: Avoid colliding with other cars on the road.
-Increase Speed: The game progressively gets faster as you score, adding an extra challenge.
-Track Your Score: Keep an eye on your score and high score to see how well you're doing.
-Intuitive Controls: Use the arrow keys to control your car's movement (up, down, left, right).
+Dodge Opponents: Avoid colliding with other cars on the road.  
+Increase Speed: The game progressively gets faster as you score, adding an extra challenge.  
+Track Your Score: Keep an eye on your score and high score to see how well you're doing.  
+Intuitive Controls: Use the arrow keys to control your car's movement (up, down, left, right).  
 
 ## Under the Hood (Technologies Used):
 
