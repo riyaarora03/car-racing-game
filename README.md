@@ -14,4 +14,7 @@ HTML: Provides the foundation for the game's structure, defining elements like t
 CSS: Injects style and visual elements, creating the background road, opponent cars, your car, and other visual components.
 JavaScript: Makes the game interactive! It handles car movement based on your key presses, opponent car generation and movement, collision detection, scorekeeping, and overall game logic.
 
-(https://github.com/riyaarora03/car-racing-game/blob/main/racing%20(1).mov)
+
+https://github.com/riyaarora03/car-racing-game/assets/137734460/ad73795a-c933-4acb-8862-85b232c5fa71
+
+
